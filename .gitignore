@@ -13,4 +13,7 @@
 hs_err_pid*
 
 # IDE-Directories
-.idea
+.idea/
+
+#Output
+out/
